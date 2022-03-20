@@ -1,6 +1,6 @@
 # Todo-List em JavaScript
 
-Projeto focado na utilização de JavaScript avançado. Foi utilizado orientação a objetos com classes, Design Pattern MVC, requisições assíncronas à uma API REST fake (json server), ES modules, entre outros.
+Projeto focado na utilização de JavaScript avançado. Foi utilizado orientação a objetos com classes, Design Pattern MVC, requisições assíncronas à uma API REST fake (json server), entre outros.
 
 ### Instalando os pacotes para o JSON Server:
 - `npm install json-server -D`
